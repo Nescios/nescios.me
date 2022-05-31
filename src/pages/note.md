@@ -74,3 +74,13 @@ v<major>.<minor>.<patch>
 ```
 
 ---
+
+## Use Git Large File Storage
+
+For large files, [git-fls](https://git-lfs.github.com/) is a good solution.
+
+  
+  ```bash
+  brew instal git-lfs
+  ```
+  
