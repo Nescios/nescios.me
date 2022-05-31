@@ -1,7 +1,6 @@
 ---
 title: Installation Process on Mac
 ---
-## À ne pas oublier lors de l'installation
 
 Installer brew et installer toutes les apps avec.
 
@@ -20,14 +19,13 @@ Installer brew et installer toutes les apps avec.
 
 **Paquets**
 - [Brew](https://brew.sh/index_fr) puis `brew doctor` et s'en servir pour bien installer chaque paquet proprement `brew install [Paquet]`:
+    - [`iterm2`](https://formulae.brew.sh/cask/iterm2)
     - `python3`
     - `git`
+    - [`git-lfs`](https://git-lfs.github.com/) (pour les fichiers de taille importante)
     - `node`
+    - [`MiddleClick`](https://github.com/artginzburg/MiddleClick-BigSur) (pour émuler le clique molette avec un Triple tap)
 
-**Personalisation**
-- [MiddleClick](https://github.com/artginzburg/MiddleClick-BigSur) - pour émuler le clique molette avec un Triple tap
 
----
-
-Installer VsCode et CMD+TAB+P
+Installer [VsCode](https://code.visualstudio.com/) et CMD+TAB+P
 `>shell command: Install 'code' command in PATH`
